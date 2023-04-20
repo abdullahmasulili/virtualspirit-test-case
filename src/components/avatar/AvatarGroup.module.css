@@ -1,0 +1,7 @@
+.avatar__group {
+    display: grid;
+    align-items: center;
+    position: relative;
+    height: 100px;
+    width: auto;
+}
