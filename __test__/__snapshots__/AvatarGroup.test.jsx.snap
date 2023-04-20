@@ -10,7 +10,7 @@ exports[`Avatar Group test > should match the snapshot 1`] = `
     data-testid="avatar"
     style={
       {
-        "backgroundColor": "#bcfa2b",
+        "backgroundColor": "#fedca4",
         "color": "white",
         "fontSize": "12px",
         "left": "0px",

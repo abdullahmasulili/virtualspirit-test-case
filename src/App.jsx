@@ -6,7 +6,7 @@ import avatars from './dummy/avatars'
 function App() {
   return (
     <div className="App">
-      <AvatarGroup />
+      <AvatarGroup avatars={avatars} maxLength={4} size={'lg'}/>
     </div>
   )
 }
