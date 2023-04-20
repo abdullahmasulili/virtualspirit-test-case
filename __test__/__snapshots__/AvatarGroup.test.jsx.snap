@@ -1,0 +1,25 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Avatar Group test > should match the snapshot 1`] = `
+<div
+  className="_avatar__group_8c19d2"
+  data-testid="avatar-group"
+>
+  <div
+    className="_avatar_69744d _avatar--md_69744d"
+    data-testid="avatar"
+    style={
+      {
+        "backgroundColor": "#bcfa2b",
+        "color": "white",
+        "fontSize": "12px",
+        "left": "0px",
+      }
+    }
+  >
+    <span>
+      TB
+    </span>
+  </div>
+</div>
+`;
